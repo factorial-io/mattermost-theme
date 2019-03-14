@@ -1,6 +1,10 @@
 # mattermost-theme
 
-> Factorials color scheme for [mattermost](https://www.mattermost.org/)
+> Factorial color scheme for [mattermost](https://www.mattermost.org/)
+
+## Preview
+
+![](https://github.com/factorial-io/mattermost-theme/blob/master/preview.png)
 
 ## Usage
 
